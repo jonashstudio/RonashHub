@@ -1,11 +1,3 @@
--- =========================
--- RONASH v2🔥 PART 1
--- Loader + Main UI + Fly Tab
--- =========================
-
--- Load UI Library
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/x2zu/OPEN-SOURCE-UI-ROBLOX/refs/heads/main/X2ZU%20UI%20ROBLOX%20OPEN%20SOURCE/DummyUi-leak-by-x2zu/fetching-main/Tools/Framework.luau"))()
-
 -- ===== LOADER =====
 local loaderGui=Instance.new("ScreenGui")
 loaderGui.Name="RonashLoader"
@@ -99,7 +91,7 @@ end
 -- Window (logo as icon, solid black background)
 local Window = WindUI:CreateWindow({
     Title = "Ronash Hub",
-    Icon = LOGO_ID,                 -- window icon
+    Icon = rbxassetid://75875011299043,                 -- window icon
     Author = "Ronash",
     Folder = "RonashHub",
     Theme = "Dark",
