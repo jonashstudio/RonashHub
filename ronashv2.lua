@@ -3,7 +3,7 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/x2zu/
 
 local Window = Library:Window({
     Title = "Ronash Hub",
-    Desc  = "Ronash Hub — merged",
+    Desc  = "Ronash Hub — update",
     Icon  = 75875011299043,
     Theme = "Dark",
     Config = { Keybind = Enum.KeyCode.RightControl, Size = UDim2.new(0, 720, 0, 480) },
