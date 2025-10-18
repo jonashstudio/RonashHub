@@ -1,4 +1,4 @@
-/ Ronash Hub UI
+--// Ronash Hub UI
 --// Safe & Optimized Version (No exploits, fully ToS-safe)
 
 -- Load Library
@@ -201,10 +201,12 @@ local Credits = Window:Tab({Title = "Credits", Icon = "award"}) do
 Ronash Hub
 Made by: Jonash
 Framework: x2zu UI
-Optimized and improved by the only Dev jonash
+Optimized & merged version by Jonash
 ]]
     })
-eC------------------------------------------------------------------
+end
+
+---------------------------------------------------------------------
 -- Final Notification
 ---------------------------------------------------------------------
 Window:Notify({
