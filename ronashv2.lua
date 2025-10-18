@@ -202,7 +202,6 @@ Ronash Hub
 Made by: Jonash
 Framework: x2zu UI
 Optimized and improved by the only Dev jonash
-suggested features by chat gpt(hehe suggested all of this features) 
 ]]
     })
 eC------------------------------------------------------------------
