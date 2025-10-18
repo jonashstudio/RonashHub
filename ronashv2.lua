@@ -201,7 +201,7 @@ local Credits = Window:Tab({Title = "Credits", Icon = "award"}) do
 Ronash Hub
 Made by: Jonash
 Framework: x2zu UI
-Optimized & merged version by Jonash
+Optimized & merged version by ChatGPT
 ]]
     })
 end
